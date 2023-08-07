@@ -1,7 +1,7 @@
 # bing-instructions
 ```
 
-### hi . consider this java script  object :
+ hi . consider this java script  object :
 
 {
     word: "",
