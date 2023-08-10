@@ -49,3 +49,6 @@ for example when you look up the word 'date', the meaning number 2 is this link:
 in such a case i need you to look up the phrase after → (in this case "at a later/future date") and put the result as the meaning.
 if the British pronunciation and American pronuncitaion are identical, don't repeat them and just mention one of them
 ```
+```
+please always remember to put the java script object in a code box so i can copy it easily
+```
